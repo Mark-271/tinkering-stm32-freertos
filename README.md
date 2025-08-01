@@ -1,3 +1,5 @@
+I have forked the main repository, originally maintained by Warren Gay, to serve as a local environment for my ongoing experiments.
+
 # Apress Source Code
 
 This repository accompanies [*Beginning STM32: Developing with FreeRTOS, libopencm3 and GCCs*](https://www.link.springer.com/book/10.1007/) by Warren Gay (Apress, 2024).
