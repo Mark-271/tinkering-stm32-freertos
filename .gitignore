@@ -6,3 +6,5 @@
 *.a
 *.hex
 *.ov
+cscope_data_base/cscope.*
+cscope_data_base/tags
